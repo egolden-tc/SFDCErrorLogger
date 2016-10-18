@@ -3,6 +3,7 @@
     <fullName>Logger</fullName>
     <types>
         <members>SystemLogUtility</members>
+        <members>TestSystemLogUtility</members>
         <name>ApexClass</name>
     </types>
     <types>
