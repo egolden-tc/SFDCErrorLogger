@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Logger</fullName>
+    <types>
+        <members>SystemLogUtility</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>System_Log__c.Log_Detail__c</members>
+        <members>System_Log__c.Log_Priority__c</members>
+        <members>System_Log__c.Type__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Error_Type</members>
+        <members>Log_Type</members>
+        <members>Warn_Type</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>CustomLabels</members>
+        <name>CustomLabels</name>
+    </types>
+    <types>
+        <members>System_Log__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>System_Log__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>System_Log__c-System Log Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>System_Log__c.All</members>
+        <name>ListView</name>
+    </types>
+    <version>37.0</version>
+</Package>
